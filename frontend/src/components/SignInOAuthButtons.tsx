@@ -19,6 +19,7 @@ const SignInOAuthButtons = () => {
       variant={"secondary"}
       className="w-full h-11 text-white border-zinc-200"
     >
+      <img src="/google.png" alt="Google" className="size-5" />
       Continue with Google
     </Button>
   );
